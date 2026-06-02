@@ -1,0 +1,14 @@
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\bin\Debug\SoftwareAccounting.exe.config
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\bin\Debug\SoftwareAccounting.exe
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\bin\Debug\SoftwareAccounting.pdb
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\SoftwareAccounting.csproj.AssemblyReference.cache
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\MainWindow.baml
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\MainWindow.g.cs
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\App.g.cs
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\SoftwareAccounting_MarkupCompile.cache
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\SoftwareAccounting.g.resources
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\SoftwareAccounting.Properties.Resources.resources
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\SoftwareAccounting.csproj.GenerateResource.cache
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\SoftwareAccounting.csproj.CoreCompileInputs.cache
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\SoftwareAccounting.exe
+D:\РМШ\SoftwareAccounting\SoftwareAccounting\SoftwareAccounting\obj\Debug\SoftwareAccounting.pdb
